@@ -1,4 +1,4 @@
-# :camera: :heart: Instagram Initial Page Clone
+# :camera::heart: Instagram Initial Page Clone
 
 ## Development
 - JavaScript
