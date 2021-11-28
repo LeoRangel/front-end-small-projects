@@ -2,4 +2,4 @@
 A collection of small HTML, CSS and JavaScript based front-end projects to study
 
 ## Projects List
-- instagram-initial-page-clone
+- :camera::heart: instagram initial page clone
